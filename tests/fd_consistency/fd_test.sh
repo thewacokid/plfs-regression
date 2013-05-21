@@ -51,7 +51,7 @@ fd_prev_cnt=4
 #
 # Number of times to build plfs (loop count)
 #
-cnt_max=10
+cnt_max=40
 #
 user=${USER}
 
